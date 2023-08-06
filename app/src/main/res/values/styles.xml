@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your base application theme attributes here -->
+    </style>
+
+    <!-- Style for the AppBarOverlay -->
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.ActionBar">
+        <!-- Customize the attributes of the ActionBar here -->
+    </style>
+
+    <!-- Style for the PopupOverlay -->
+    <style name="AppTheme.PopupOverlay" >
+        <!-- Customize the attributes for popups here -->
+    </style>
+</resources>
+
